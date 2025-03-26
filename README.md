@@ -4,4 +4,4 @@ This is a simulation of organisms made in OpenGL and C. I'm trying to go as comp
 
 # Documentation
 
-I will be documenting my progress and how things work on the Trello, you can find it [here](https://trello.com/b/c9LJCuyt/simulation)
+I will be documenting my findings and progress and how things work on the Trello, you can find it [here](https://trello.com/b/c9LJCuyt/simulation)
