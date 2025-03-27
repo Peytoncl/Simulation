@@ -5,14 +5,14 @@
 typedef enum
 {
     Food,
-    Danger,
+    Water,
     Shelter,
-    Water
+    Danger,
 } MemoryType;
 
 typedef struct {
     int x, y;  // location of the memory
-    float value;  // good/bad rating (-1 (bad) to 1 (good))
+    float importance;  // importance rating (-1 to 1)
     MemoryType type;  // type of event (food, danger, shelter, etc.)
 } Memory;
 
